@@ -23,7 +23,7 @@ if (isset($_SESSION['luggage'])){
 
     //echo the amount of bags over ten kilos the passenger is bringing
     echo "{$_SESSION['overTenKG']}";
-
+    
 }
 //end if block
 
